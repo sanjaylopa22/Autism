@@ -51,7 +51,7 @@ dataset_autism/
 ```bash
 python -m venv autism_env
 source autism_env/bin/activate   # or autism_env\Scripts\activate on Windows
-python Autism_Classification_LocalDrive_new.py   # installs its own dependencies on first run
+python Autism_Classification_LocalDrive_final_all_models.py   # installs its own dependencies on first run
 ```
 
 Both scripts `pip install` their dependencies automatically on startup:
